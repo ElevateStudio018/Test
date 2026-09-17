@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Illustration: anläggning av tomt och uppfart">
   <defs>
     <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#3c4a37"/>
-      <stop offset="1" stop-color="#e3903f"/>
+      <stop offset="0" stop-color="#6e2b1b"/>
+      <stop offset="1" stop-color="#b9822f"/>
     </linearGradient>
   </defs>
   <rect width="480" height="360" fill="url(#g5)"/>
-  <g stroke="#f6f2ea" stroke-opacity="0.08">
+  <g stroke="#f7f1e4" stroke-opacity="0.08">
     <path d="M-100,420 L420,-90"/>
     <path d="M40,420 L560,-90"/>
     <path d="M180,420 L700,-90"/>
     <path d="M320,420 L840,-90"/>
   </g>
-  <circle cx="240" cy="178" r="86" fill="#f6f2ea" opacity="0.1"/>
-  <g transform="translate(197,144)" fill="none" stroke="#f6f2ea" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="240" cy="178" r="86" fill="#f7f1e4" opacity="0.1"/>
+  <g transform="translate(197,144)" fill="none" stroke="#f7f1e4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
     <rect x="10" y="4" width="22" height="22" rx="4"/>
     <rect x="37" y="4" width="22" height="22" rx="4"/>
     <rect x="64" y="4" width="22" height="22" rx="4"/>
