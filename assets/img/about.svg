@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration: markarbetare på plats">
+  <defs>
+    <linearGradient id="abBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030f27"/>
+      <stop offset="1" stop-color="#0a1a3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#abBg)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="2">
+    <path d="M-50,470 L850,-60"/>
+    <path d="M60,470 L960,-60"/>
+    <path d="M170,470 L1070,-60"/>
+  </g>
+
+  <!-- ground mound -->
+  <path d="M0,470 C160,410 260,430 400,440 C540,450 640,420 800,460 L800,600 L0,600 Z" fill="#fdbe33" opacity="0.14"/>
+
+  <!-- worker 1: standing with shovel -->
+  <g transform="translate(300,300)" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="-84" r="16" fill="#ffffff" stroke="none"/>
+    <path d="M0,-64 L0,30" />
+    <path d="M0,-40 L-34,-6" />
+    <path d="M0,-34 L30,10" />
+    <path d="M0,30 L-18,110" />
+    <path d="M0,30 L20,110" />
+    <path d="M-34,-6 L-58,60" stroke-width="5"/>
+    <path d="M-66,74 L-50,50" stroke-width="5"/>
+  </g>
+
+  <!-- worker 2: crouched, examining ground -->
+  <g transform="translate(470,340)" fill="none" stroke="#ffffff" stroke-opacity="0.82" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="-46" r="15" fill="#ffffff" fill-opacity="0.82" stroke="none"/>
+    <path d="M0,-28 L6,40" />
+    <path d="M0,-14 L36,4" />
+    <path d="M6,40 L-16,66" />
+    <path d="M6,40 L34,70" />
+    <path d="M-16,66 L-16,90" stroke-width="5"/>
+  </g>
+
+  <!-- excavator silhouette, background -->
+  <g transform="translate(70,150) scale(1.6)" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="62" width="62" height="16" rx="8"/>
+    <rect x="14" y="34" width="34" height="30" rx="6"/>
+    <path d="M44 40 L74 14"/>
+    <path d="M74 14 L90 42"/>
+    <path d="M90 42 L80 55 L67 50 L76 36 Z"/>
+  </g>
+</svg>

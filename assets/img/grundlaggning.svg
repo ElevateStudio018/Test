@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Illustration: grundläggning för husbygge">
   <defs>
     <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8a3623"/>
-      <stop offset="1" stop-color="#241a13"/>
+      <stop offset="0" stop-color="#e2a71e"/>
+      <stop offset="1" stop-color="#030f27"/>
     </linearGradient>
   </defs>
   <rect width="480" height="360" fill="url(#g4)"/>
-  <g stroke="#f7f1e4" stroke-opacity="0.08">
+  <g stroke="#ffffff" stroke-opacity="0.08">
     <path d="M-100,420 L420,-90"/>
     <path d="M40,420 L560,-90"/>
     <path d="M180,420 L700,-90"/>
     <path d="M320,420 L840,-90"/>
   </g>
-  <circle cx="240" cy="178" r="86" fill="#f7f1e4" opacity="0.1"/>
-  <g transform="translate(194,118)" fill="none" stroke="#f7f1e4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="240" cy="178" r="86" fill="#ffffff" opacity="0.1"/>
+  <g transform="translate(194,118)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
     <path d="M14 46 L48 18 L82 46"/>
     <path d="M22 46 V78 H74 V46"/>
     <path d="M6 88 H90" stroke-width="7"/>
