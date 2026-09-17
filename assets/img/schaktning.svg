@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Illustration: schaktning med grävmaskin">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171d18"/>
+      <stop offset="1" stop-color="#3c4a37"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="360" fill="url(#g1)"/>
+  <g stroke="#f6f2ea" stroke-opacity="0.08">
+    <path d="M-100,420 L420,-90"/>
+    <path d="M40,420 L560,-90"/>
+    <path d="M180,420 L700,-90"/>
+    <path d="M320,420 L840,-90"/>
+  </g>
+  <circle cx="240" cy="178" r="86" fill="#f6f2ea" opacity="0.1"/>
+  <g transform="translate(192,130)" fill="none" stroke="#f6f2ea" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="62" width="62" height="16" rx="8"/>
+    <rect x="14" y="34" width="34" height="30" rx="6"/>
+    <rect x="20" y="40" width="14" height="12" rx="3"/>
+    <path d="M44 40 L74 14"/>
+    <path d="M74 14 L90 42"/>
+    <path d="M90 42 L80 55 L67 50 L76 36 Z"/>
+  </g>
+</svg>

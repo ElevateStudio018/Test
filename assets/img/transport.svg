@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Illustration: transport och maskintjänster">
+  <defs>
+    <linearGradient id="g6" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171d18"/>
+      <stop offset="1" stop-color="#c1682f"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="360" fill="url(#g6)"/>
+  <g stroke="#f6f2ea" stroke-opacity="0.08">
+    <path d="M-100,420 L420,-90"/>
+    <path d="M40,420 L560,-90"/>
+    <path d="M180,420 L700,-90"/>
+    <path d="M320,420 L840,-90"/>
+  </g>
+  <circle cx="240" cy="178" r="86" fill="#f6f2ea" opacity="0.1"/>
+  <g transform="translate(186,132)" fill="none" stroke="#f6f2ea" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="26" width="50" height="34" rx="3"/>
+    <path d="M56 38 H80 L92 52 V60 H56 Z"/>
+    <circle cx="26" cy="66" r="10"/>
+    <circle cx="76" cy="66" r="10"/>
+  </g>
+</svg>
